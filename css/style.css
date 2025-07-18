@@ -1,0 +1,12 @@
+body {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        padding: 50px;
+        background-color: #f5f5f5;
+        color: #333;
+}
+img {
+        margin-top: 20px;
+        width: 150px;
+        /* TODO: ajustar dimensao */
+}
